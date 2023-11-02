@@ -1,4 +1,4 @@
-aiphase5
+Aiphase5
 
 Earthquake Prediction Project Documentation
 
